@@ -21,7 +21,7 @@ There is no problem if you want to keep working on your repository after the dea
 ### What to do
 
 In this project you must write a program in the Python programming language to search a text file using a regular expression.
-Your program must take the name or path of the file as a command line argument and output the lines matching the regular expression.
+Your program must take a regular expression and the name or path of the file as a command line argument and output the lines matching the regular expression.
 The program must be coded from scratch.
 You cannot use any external libraries other than what is included in Python, and you cannot use the `re` package included there.
 Your program must run using Python 3.
@@ -33,11 +33,11 @@ The README must at least contain the following items.
 
 - A **description** of your repository and its contents, pitched at a knowledgeable outsider.
 - **Instructions** stating how to run and test your program.
-- An **explanation** of Thompson's construction and why it is important.
+- An **explanation** of your algorithm.
 - **Answers** to each of the following three questions, up to 500 words each:
-    - Why can't we reverse the SHA512 algorithm to retrieve the original message from a hash digest?
-    - Can you design an algorithm that, given enough time, will find input messages that give each of the possible 512 bit strings?
-    - How difficult is it to find a hash digest beginning with at least twelve zeros?
+    - What is a regular expression?
+    - How do regular expressions differ across implementations?
+    - Can all formal languages be encoded as regular expressions?
     
 
 
