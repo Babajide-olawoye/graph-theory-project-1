@@ -25,7 +25,7 @@ There is no problem if you want to keep working on your repository after the dea
 ## What to do
 
 In this project you must write a program in the [Python 3](https://wiki.python.org/moin/BeginnersGuide) programming language to search a text file using a regular expression.
-Your program must take a regular expression and the name or path of the file as a command line argument and output the lines matching the regular expression.
+Your program must take a regular expression and the name or path of the file as command line arguments and output the lines of the file matching the regular expression.
 You have a lot of freedom in how you interpret the term *regular expression*, as will be discussed in class.
 It will likely be easier to limit yourself to [regular languages](https://en.wikipedia.org/wiki/Regular_language).
 
