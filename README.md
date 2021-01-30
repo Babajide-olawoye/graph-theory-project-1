@@ -32,7 +32,6 @@ It will likely be easier to limit yourself to [regular languages](https://en.wik
 The program must be coded from scratch.
 You cannot use any external libraries other than what is included in Python, and you cannot use the `re` package included there.
 Any extra features added to your script must be your own work.
-
 You must also include tests which run upon `python script.py --test` being called, as will be described in lectures.
 The tests should ensure that your regular expression engine works on a sensible example list of inputs.
 
