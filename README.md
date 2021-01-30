@@ -3,20 +3,28 @@
 ### Due: last commit on or before April 30<sup>th</sup> 2021
 
 
-These are the instructions for the assessment for Graph Theory in 2021.
-This assessment contains several parts but overall, it is worth 100% of the marks for the module.
+These are the instructions for the Graph Theory project in 2021.
+There are several parts but overall, it is worth 100% of the marks for this module.
 All aspects of the project will be covered during the semester.
-You should complete and commit the different parts of the project following the timelines indicated by the lecturer during the semester.
-Please also read the **[Using git for assessments](https://github.com/ianmcloughlin/using-git-for-assessments/raw/master/using-git-for-assessments.pdf)** document which applies to this project.
-As always, you must also follow the code of student conduct and the policy on plagiarism.
 
-To start, you must fork this repository in GitHub by clicking the Fork button on the top right or by [clicking here](https://github.com/theory-algos-project/fork).
-You should take the URL of your version of the repository, which should look something like `https://github.com/your-username/theory-algos-project`, and immediately submit it using the form on the Moodle page.
+
+You should complete the different parts of the project following the timelines indicated in video lectures during the semester.
+As you complete various parts of the project, you should commit and push your work to your fork of this repository, as described below.
+Please also read the **[Using git for assessments](https://github.com/ianmcloughlin/using-git-for-assessments/raw/master/using-git-for-assessments.pdf)** document which applies to this project.
+As always, you must also follow [the code of student conduct and the policy on plagiarism](https://www.gmit.ie/general/quality-assurance-framework).
+
+
+To start, you must fork this repository in GitHub by clicking the Fork button on the top right.
+You should take the URL of <u>your fork</u> of the repository and immediately submit it using the form on the Moodle page.
+The URL should look something like `https://github.com/your-username/graph-theory-project`.
 You must also set your repository to **private** and add `ianmcloughlin` as a **collaborator**.
-You should then clone that repository to your own machine and start working on the project as described below.
+
+
+You should then clone your fork of the repository to your own machine and start working on the project as described below.
 You should make regular, appropriate commits to your repository and push these to GitHub.
 The last commit you make and push to GitHub before the deadline will form your submission.
 There is no problem if you want to keep working on your repository after the deadline, but there is no guarantee that that work will be graded.
+
 
 ### What to do
 
