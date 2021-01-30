@@ -16,8 +16,6 @@ To start, you must fork this repository in GitHub by clicking the Fork button on
 You should take the URL of <u>your fork</u> of the repository and immediately submit it using the form on the Moodle page.
 The URL should look something like `https://github.com/your-username/graph-theory-project`.
 You must also set your repository to **private** and add `ianmcloughlin` as a **collaborator**.
-
-
 You should then clone your fork of the repository to your own machine and start working on the project as described below.
 You should make regular, appropriate commits to your repository and push these to GitHub.
 The last commit you make and push to GitHub before the deadline will form your submission.
