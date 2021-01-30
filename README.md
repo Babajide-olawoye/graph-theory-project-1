@@ -70,5 +70,7 @@ Likewise, your submission should have references in it to demonstrate that you c
 
 Here is a list of resources you might review to complete this project.
 
-- [*Regular Expressions: Regexes in Python*, Real Python,<br> https://realpython.com/regex-python/](https://realpython.com/regex-python/)
-- [*Regular Expression Matching Can Be Simple And Fast*,Russ Cox,<br> https://swtch.com/~rsc/regexp/regexp1.html](https://swtch.com/~rsc/regexp/regexp1.html)
+1. [*Regular Expressions: Regexes in Python*, Real Python,<br> https://realpython.com/regex-python/](https://realpython.com/regex-python/)
+2. [*Regular Expression Matching Can Be Simple And Fast*,Russ Cox,<br> https://swtch.com/~rsc/regexp/regexp1.html](https://swtch.com/~rsc/regexp/regexp1.html)
+3. [*Python Command Line Arguments*, Real Python,<br>https://realpython.com/python-command-line-arguments/](https://realpython.com/python-command-line-arguments/)
+4. [*Git Handbook*,GitHub,<br>https://guides.github.com/introduction/git-handbook/](https://guides.github.com/introduction/git-handbook/)
