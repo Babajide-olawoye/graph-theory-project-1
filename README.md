@@ -4,7 +4,7 @@
 
 
 These are the instructions for the assessment for Graph Theory in 2021.
-This assessment contains several aspects but overall, it is worth 100% of the marks for the module.
+This assessment contains several parts but overall, it is worth 100% of the marks for the module.
 All aspects of the project will be covered during the semester.
 You should complete and commit the different parts of the project following the timelines indicated by the lecturer during the semester.
 Please also read the **[Using git for assessments](https://github.com/ianmcloughlin/using-git-for-assessments/raw/master/using-git-for-assessments.pdf)** document which applies to this project.
