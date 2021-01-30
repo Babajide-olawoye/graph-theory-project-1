@@ -1,6 +1,6 @@
 # Graph Theory Project 2021
 
-### Due: last commit on or before 30<sup>th</sup> April 2021
+## Due: last commit on or before 30<sup>th</sup> April 2021
 
 
 These are the instructions for the Graph Theory project in 2021.
@@ -22,7 +22,7 @@ The last commit you make and push to GitHub before the deadline will form your s
 There is no problem if you want to keep working on your repository after the deadline, but there is no guarantee that that work will be graded.
 
 
-### What to do
+## What to do
 
 In this project you must write a program in the [Python 3](https://wiki.python.org/moin/BeginnersGuide) programming language to search a text file using a regular expression.
 Your program must take a regular expression and the name or path of the file as a command line argument and output the lines matching the regular expression.
@@ -49,7 +49,7 @@ The README must at least contain the following items.
     - Can all formal languages be encoded as regular expressions?
     
 
-### Marking scheme
+## Marking scheme
 
 The following marking scheme will be used to mark your submission out of 100%.
 The examiner's overall impression of your submission may influence marks in each individual component.
@@ -66,7 +66,7 @@ Likewise, your submission should have references in it to demonstrate that you c
 |25% | Documentation | Clear documentation of how to create an environment in which any code will run, how to prepare the code for running, how to run the code including setting any options or flags, and what to expect upon running the code. Concise descriptions of code in comments and README. |
 
 
-### Resources
+## Resources
 
 Here is a list of resources you might review to complete this project.
 
