@@ -37,8 +37,7 @@ The tests should ensure that your regular expression engine works on a sensible 
 
 
 ## Your README
-You should overwrite this README with your own work.
-The README must at least contain the following items.
+You should include a README that contains at least the following items.
 
 - A **description** of your repository and its contents pitched at a knowledgeable outsider.
 - **Instructions** stating how to run and test your program.
