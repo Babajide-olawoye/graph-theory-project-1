@@ -6,8 +6,6 @@
 These are the instructions for the Graph Theory project in 2021.
 There are several parts but overall, it is worth 100% of the marks for this module.
 All aspects of the project will be covered during the semester.
-
-
 You should complete the different parts of the project following the timelines indicated in video lectures during the semester.
 As you complete various parts of the project, you should commit and push your work to your fork of this repository, as described below.
 Please also read the **[Using git for assessments](https://github.com/ianmcloughlin/using-git-for-assessments/raw/master/using-git-for-assessments.pdf)** document which applies to this project.
