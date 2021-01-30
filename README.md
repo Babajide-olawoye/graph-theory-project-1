@@ -28,12 +28,18 @@ There is no problem if you want to keep working on your repository after the dea
 
 ### What to do
 
-In this project you must write a program in the Python programming language to search a text file using a regular expression.
+In this project you must write a program in the [Python 3](https://wiki.python.org/moin/BeginnersGuide) programming language to search a text file using a regular expression.
 Your program must take a regular expression and the name or path of the file as a command line argument and output the lines matching the regular expression.
+You have a lot of freedom in how you interpret the term *regular expression*, as will be discussed in class.
+It will likely be easier to limit yourself to [regular languages](https://en.wikipedia.org/wiki/Regular_language).
+
 The program must be coded from scratch.
 You cannot use any external libraries other than what is included in Python, and you cannot use the `re` package included there.
+Any extra features added to your script must be your own work.
+
 Your program must run using Python 3.
 You must also include tests which run upon `python script.py --test` being called, as will be described in lectures.
+
 
 ### Your README
 You should overwrite this README with your own work.
