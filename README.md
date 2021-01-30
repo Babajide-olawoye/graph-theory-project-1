@@ -31,7 +31,7 @@ You must also include tests which run upon `python script.py --test` being calle
 You should overwrite this README with your own work.
 The README must at least contain the following items.
 
-- A **description** of your repository and its contents, pitched at a knowledgeable outsider.
+- A **description** of your repository and its contents pitched at a knowledgeable outsider.
 - **Instructions** stating how to run and test your program.
 - An **explanation** of your algorithm.
 - **Answers** to each of the following three questions, up to 500 words each:
