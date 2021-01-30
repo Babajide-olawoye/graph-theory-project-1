@@ -64,3 +64,11 @@ Likewise, your submission should have references in it to demonstrate that you c
 |25% | Development | Environment can be set up as described; code works without tweaking and as described; code is efficient, clean, and clear; evidence of consideration of standards and conventions appropriate to code of this kind. |
 |25% | Consistency | Evidence of planning and project management; pragmatic attitude to work as evidenced by well-considered commit history; commits are of a reasonable size; consideration of how commit history will be perceived by others. |
 |25% | Documentation | Clear documentation of how to create an environment in which any code will run, how to prepare the code for running, how to run the code including setting any options or flags, and what to expect upon running the code. Concise descriptions of code in comments and README. |
+
+
+### Resources
+
+Here is a list of resources you might review to complete this project.
+
+- [Regular Expressions: Regexes in Python,<br>Real Python,<br> https://realpython.com/regex-python/](https://realpython.com/regex-python/)
+- [Regular Expression Matching Can Be Simple And Fast,<br>Russ Cox,<br> https://swtch.com/~rsc/regexp/regexp1.html](https://swtch.com/~rsc/regexp/regexp1.html)
