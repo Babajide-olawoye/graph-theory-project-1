@@ -36,7 +36,7 @@ You must also include tests which run upon `python script.py --test` being calle
 The tests should ensure that your regular expression engine works on a sensible example list of inputs.
 
 
-### Your README
+## Your README
 You should overwrite this README with your own work.
 The README must at least contain the following items.
 
